@@ -1,11 +1,3 @@
-> # ARCHIVED
-> 
-> I am no longer developing JSON Formatter as an open source project. I'm moving to a closed-source, commercial model in order to build a more comprehensive API-browsing tool with premium features.
->
-> I know some users (especially here on GitHub) will always prefer open source tools, so I’m leaving this repo online for others to use/fork, and I’ve published the final open source version as [JSON Formatter Classic](https://chromewebstore.google.com/detail/json-formatter-classic/caacnjeoikecoeepknkbjdcaediamaej) – you can switch to that if you just want a simple, open source, local-only JSON-formatting extension that won't receive updates.
-
----
-
 # JSON Formatter
 
 Chrome extension that helps you view and explore JSON API responses.
